@@ -10,3 +10,5 @@ Right gripper (in dual gripper configuration) need to be configured as device 9 
 start with:
 roslaunch robotiq_85_bringup robotiq_85.launch run_test:=true
 
+--------
+# Updated to work with ROS Melodic
